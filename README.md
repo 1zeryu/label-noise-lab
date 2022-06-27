@@ -1,0 +1,7 @@
+# ReadMe
+这是我在做 1st cifar noise label challenge 比赛中写的代码接口,代码作为一个软件包共有__init__作为主程序接口
+软件包中model存放常见的模型，比如ResNet,ViT,EfficientNet,DenseNet等等
+软件包中的最主要的接口是data中的dataloader.py 里面存放了获取cifar_noise数据的方法和训练器,以及绘图的对象(使用的是tensorboard)
+state_dict 用于保存程序总训练的参数
+
+如果你有哪些代码不懂可以直接来询问

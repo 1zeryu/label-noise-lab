@@ -1,0 +1,6 @@
+torch 
+numpy
+tqdm
+vit_pytorch
+efficientNet_pytorch 
+上面的都是需要的软件包，可以用pip下载
